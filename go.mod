@@ -16,5 +16,5 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.5
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
 	golang.org/x/sys v0.0.0-20210113181707-4bcb84eeeb78 // indirect
-	gorm.io/gorm v1.20.7
+	gorm.io/gorm v1.21.5
 )
