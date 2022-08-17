@@ -13,7 +13,7 @@ require (
 	github.com/cznic/strutil v0.0.0-20181122101858-275e90344537 // indirect
 	github.com/cznic/zappy v0.0.0-20181122101859-ca47d358d4b1 // indirect
 	github.com/edsrzf/mmap-go v1.0.0 // indirect
-	github.com/mattn/go-sqlite3 v1.14.5
+	github.com/mattn/go-sqlite3 v1.14.15
 	github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0 // indirect
 	golang.org/x/sys v0.0.0-20210113181707-4bcb84eeeb78 // indirect
 	gorm.io/gorm v1.20.7
